@@ -1,0 +1,12 @@
+cd project-management-system
+
+to run backend
+cd backend
+npm run dev
+
+to check the frontend
+http://localhost:5000
+
+to run frontend
+cd frontend
+npm run dev
