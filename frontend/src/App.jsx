@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://project-management-backend-vh76.onrender.com/";
 
 function statusBadgeClass(status) {
   const key = (status || "").toLowerCase().replace(/\s+/g, "-");
